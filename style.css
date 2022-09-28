@@ -1,0 +1,48 @@
+#a {
+            background: red;
+            width: 100%;
+            text-align: center;
+            padding: 5px;
+            font-size: 50px;
+        }
+
+        #b {
+            background: green;
+            width: 100%;
+            text-align: center;
+            padding: 200px 0;
+        }
+
+        #subB {
+            font-size: 50px;
+        }
+
+        #c {
+            background: blue;
+            width: 50%;
+            float: right;
+            text-align: center;
+            padding: 200px 0;
+        }
+
+        #d {
+            font-size: 50px;
+        }
+
+        #e {
+            background: red;
+            width: 50%;
+            text-align: center;
+            padding: 200px 0;
+            font-size: 50px;
+        }
+
+        #f {
+            background: orange;
+            width: 100%;
+            text-align: center;
+            padding: 100px 0;
+            font-size: 50px;
+        }
+
+        #ALL {}
